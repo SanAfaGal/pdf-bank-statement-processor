@@ -1,0 +1,5 @@
+### dotenv ###
+.env
+
+# Ignore directory .idea
+.idea/
